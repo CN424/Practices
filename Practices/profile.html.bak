@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Profile Card Component</title>
+   <link rel="stylesheet" href="profile-styles.css">
+</head>
+
+<body>
+   <div class="bg-top">
+      <a style=background-image="bg-pattern-top.svg">
+   </div>
+   <div class="container">
+      <img src="image-victor.jpg">
+	  <p><b>Victor Crest</b>  26</p>
+    <div class="C:\Users\Christina\Documents\HTML\Profile Card Component\profile-card-component-main\profile-card-component-main\images\bg-pattern-bottom.svg" alt="bottom-pattern">
+      <img src="bg-pattern-bottom.svg">
+    </div>
+   </div>
+</body>
+</html>

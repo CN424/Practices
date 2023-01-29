@@ -1,0 +1,45 @@
+body, html {
+   height: 100%;
+}
+
+.attribution {
+   font-size: 11px; 
+   text-align: center; 
+}
+.attribution a { 
+   color: hsl(228, 45%, 44%); 
+}
+.container {
+   border: 1px solid black;
+   border-radius: 5%;
+   margin-top: 10%;
+   margin-left: 30%;
+   margin-right: 30%;
+   margin-bottom: 10%;
+}
+.card-bg {
+   background: url("images/bg-pattern-card.svg");
+   height: 200px;
+   border-radius: 10%;
+}
+.profile-pic {
+   background-image: url("images/image-victor.jpg");
+   height: 100px;
+   background-color: black;
+   display: inline-block;
+}
+.profile-pic img {
+   border-radius: 50%;
+   margin-left: 46%;
+   position: absolute;
+   top: 286px;
+   right: 620px;
+}
+.info {
+   margin-left: 30%;
+   margin-right: 30%;
+   margin-bottom: 10%;
+   padding: 5%;
+   background-color: white;
+   
+}

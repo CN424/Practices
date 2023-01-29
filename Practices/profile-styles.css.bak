@@ -1,0 +1,13 @@
+/*Stylesheet*/
+
+.container {
+   padding: 10%;
+   margin-top: 10%;
+   margin-left: 30%;
+   margin-right: 30%;
+   background-color: white;
+   border: 1px solid black;
+}
+.bg-top {
+   background-image: url("bg-pattern-top.svg");
+}

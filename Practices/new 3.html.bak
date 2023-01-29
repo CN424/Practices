@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> My Personal Web Page </title>
+</head>
+<style>
+body {
+   border: 2px solid black;
+   border-radius: 25%;
+   padding: 50px;
+   background-color: #F5DEB3;
+   margin-top: 80px;
+   margin-bottom: 60px;
+   margin-right: 100px;
+   margin-left: 100px;}
+p {
+   font-size: 30px;}
+h1 {
+   font-size: 30px; 
+   align: center;}
+</style>
+<body>
+<h1>
+   Let Me Introduce Myself 
+</h1>
+   <br><img src="C:\Users\Christina\Documents\Personal Webpage\Me.jpg" 
+   width="150", height="250", align=right> 
+<p style align=left>
+   &nbsp&nbsp&nbspName: Maria Christina Familaran Ng<br> 
+   &nbsp&nbsp&nbspBirthday: April 24, 2003 <br>
+   &nbsp&nbsp&nbspCity: Gloria <br>
+   &nbsp&nbsp&nbspCountry: Philippines <br>
+   &nbsp&nbsp&nbspYear Level: 1st Year College Student <br>
+   &nbsp&nbsp&nbspCourse: Bachelor of Science in Information Technology <br>
+   &nbsp&nbsp&nbspSchool/University: Mindoro State University - Bongabong Campus <br>
+</p>
+<audio controls autoplay, align="right">
+   <source src="C:\Users\Christina\Documents\Personal Webpage\burbank - sorry i like you.mp3">
+</audio>
+</body>
+</html>
